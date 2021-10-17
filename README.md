@@ -19,4 +19,7 @@ The very nature of quantum mechanics is probabilistic and randomness lies at the
 
 # Our Idea  
 
-While a very basic random number generator can be created using a simple quantum circuit, it turns out it has some serious limitations, like the very limited number of unique random numbers generated, and the qubits requirement. So we propose a variational quantum RNG, where we have tried to use a varying parameter to generate a list of unique random numbers. We found that with the variational RNG, we were able to generate a list of unique random numbers, and with a lower qubit requirement, executing the circuit with only two qubits.
+While a very basic random number generator can be created using a simple quantum circuit, it turns out it has some serious limitations, like the very limited number of unique random numbers generated, and the qubits requirement. So we propose a variational quantum RNG, where we have tried to use a varying parameter to generate a list of unique random numbers. We found that with the variational RNG, we were able to generate a list of unique random numbers, and with a lower qubit requirement, executing the circuit with only two qubits.  
+
+# Link to Presentation:  
+https://drive.google.com/file/d/14US7Fb4Ffnm8Gm7FZA_o_uoht0s-m9gH/view?usp=sharing
