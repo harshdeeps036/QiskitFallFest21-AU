@@ -9,7 +9,7 @@ This is a project submitted for the Allahabad University campaign at Qiskit Fall
 
 # Why Random Numbers?  
 
-Random number generation plays a lot of important roles in various areas like computational physics and chemistry, in Monte-Carlo simulations, etc. and is one of the very important security elements in today's world (increasing no. of applications, increasing no. of IoT devices) for safety and trusted communications and with onset of quantum encryption, we need very good random number generators.  Random number generators must be able to provide true randomness and the possibility of predictions should be minimized as much as possible.   
+Random number generation plays a lot of important roles in various areas like computational physics and chemistry say in Monte-Carlo simulations, arts, gaming, gambling etc. and is one of the very important security elements in today's world (with increasing no. of online applications, and IoT devices) for safety and trusted communications and with onset of quantum encryption, we need very good random number generators.  Random number generators must be able to provide true randomness and the possibility of predictions should be minimized as much as possible.   
 
 # Why Quantum Random Number Generators?  
 
