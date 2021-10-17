@@ -1,4 +1,11 @@
-# QiskitFallFest21-AU  
+# QiskitFallFest21-AU   
+
+This is a project submitted for the Allahabad University campaign at Qiskit Fall Fest 2021. The team consists of:  
+
+* Harshdeep Singh  
+* Abhi Patel  
+* Paridhi Jain  
+* Purvan Sheth
 
 # Why Random Numbers?  
 
