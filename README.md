@@ -5,7 +5,7 @@ This is a project submitted for the Ahmedabad University campaign at Qiskit Fall
 * Harshdeep Singh  
 * Abhi Patel  
 * Paridhi Jain  
-* Purvan Sheth
+* Purvam Sheth
 
 # Why Random Numbers?  
 
